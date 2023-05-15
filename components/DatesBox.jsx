@@ -6,7 +6,7 @@ export default function DatesBox({ id, name, password, category, month }) {
     console.log(name);
     console.log(password);
     console.log(category);
-    console.log(month);// nothing apearing
+    console.log(month);// nothing apearing  
   return (
     <View>
       <Text>datbox works</Text>
