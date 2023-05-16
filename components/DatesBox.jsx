@@ -9,7 +9,7 @@ export default function DatesBox({ id, name, password, category, month }) {
     console.log(month);// nothing apearing  
   return (
     <View>
-      <Text>datbox works</Text>
+      <Text>{id} works</Text>
     </View>
   )
 }
